@@ -83,7 +83,7 @@ VmtSR2ExRnNWWGhSYW1SYVlXeEtObFJZY0ZwTlJtZzJVbTV3V1UxcVVqTmFSVmswWlcxS2RGUnViR3hY
 VkRGa1FsVXhRamRaYWxKNlRYcFpNRmg2Um5wWU1qUjNaRVk0ZW1KdFRubGxXRUl3VFZSQ2RXWlJQVDA9
 VDFkQlUxQjdZalJ6TXpZMFh6RnpYMjR3ZEY4emJtTnllWEIwTVRCdWZRPT0=⏎             
 T1dBU1B7YjRzMzY0XzFzX24wdF8zbmNyeXB0MTBufQ==⏎                             
-OWASP{b4s364_1s_n0t_3ncrypt10n}⏎                                                                                                                                                                          
+OWASP{b4s364_1s_n0t_3ncrypt10n}
 ```
 
 Usage of AI: Zero
