@@ -14,11 +14,12 @@ data = b"eJxVzLEKwjAQgOE9T3He1CzSkroUOojoquDQsdQ2rcE2CXdXtIjvLggKjv83/MpNMZAAL6x
 exec(zlib.decompress(base64.b64decode(data)))
 
 ```
-this is real 
+This is the code Provided
+
 ```
 print(zlib.decompress(base64.b64decode(data)))
 ```
-this is used
+this is added at the end to find the flag
 
 Usage of AI: Zero
 # Rev
