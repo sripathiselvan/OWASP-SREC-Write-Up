@@ -135,7 +135,9 @@ Usage of AI: Zero
 # Digital Footprint:
 
 Image Unique ID                 : 4f574153507b6d33743464347434
+
 Owner Name                      : _ t3ll3s_4ll
+
 Serial Number                   : 5f733363723374357d
 
 Usage of AI: Zero
