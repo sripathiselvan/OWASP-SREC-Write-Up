@@ -24,8 +24,10 @@ this is added at the end to find the flag
 Usage of AI: Zero
 # Rev
 
-chall should be reversed cuz talil have FLE which should be ELF.
-so everything is reversed 
+Chall is the name of the name of the binary.
+Hex of the binary is reversed. so total binary is reversed to solve the challenge.
+
+this is the Pesudo code from decompiler
 ```
 00402010  unsigned char const const encrypted_flag[0x18] = 
 00402010  {
